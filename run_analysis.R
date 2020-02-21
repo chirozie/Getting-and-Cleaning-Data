@@ -1,3 +1,6 @@
+##loading dplyr package
+library(dplyr)
+
 ##to download and unzip the project data
 
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
