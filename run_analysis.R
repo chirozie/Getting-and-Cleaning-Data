@@ -1,5 +1,6 @@
 ##loading dplyr package
 library(dplyr)
+library(data.table)
 
 ##to download and unzip the project data
 
